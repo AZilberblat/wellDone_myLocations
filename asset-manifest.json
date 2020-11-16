@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/wellDone_myLocations/static/js/main.a71b71b3.chunk.js",
+    "main.js.map": "/wellDone_myLocations/static/js/main.a71b71b3.chunk.js.map",
+    "runtime-main.js": "/wellDone_myLocations/static/js/runtime-main.1c0b6969.js",
+    "runtime-main.js.map": "/wellDone_myLocations/static/js/runtime-main.1c0b6969.js.map",
+    "static/js/2.669a8375.chunk.js": "/wellDone_myLocations/static/js/2.669a8375.chunk.js",
+    "static/js/2.669a8375.chunk.js.map": "/wellDone_myLocations/static/js/2.669a8375.chunk.js.map",
+    "index.html": "/wellDone_myLocations/index.html",
+    "static/js/2.669a8375.chunk.js.LICENSE.txt": "/wellDone_myLocations/static/js/2.669a8375.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1c0b6969.js",
+    "static/js/2.669a8375.chunk.js",
+    "static/js/main.a71b71b3.chunk.js"
+  ]
+}
